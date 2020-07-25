@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822661134021",
+    "firebase_url": "https://srigenstores.firebaseio.com",
+    "project_id": "srigenstores",
+    "storage_bucket": "srigenstores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822661134021:android:809315f7941c6df82122ac",
+        "android_client_info": {
+          "package_name": "com.example.srikanthgeneralstores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822661134021-5k5qdepbc002okoltubq5efppqvirsl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.srikanthgeneralstores",
+            "certificate_hash": "1b90b3f1ac39c6d615b411da3d92f994b6eb4d64"
+          }
+        },
+        {
+          "client_id": "822661134021-5s7jlfd5pj63laqrbg0fvmbblebcbh8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADlHt4eciBBbw0jE1acYKLNtxh_EVx8u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822661134021-5s7jlfd5pj63laqrbg0fvmbblebcbh8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
