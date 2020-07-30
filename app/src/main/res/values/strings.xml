@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Srikanth General Stores</string>
+    <string name="me">ME</string>
+    <string name="categories">Categories</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="set_as_current_location">Set as Current Location</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
