@@ -1,4 +1,4 @@
-package com.example.srikanthgeneralstores;
+package com.example.srikanthgeneralstores.Activites;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,6 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.srikanthgeneralstores.R;
 import com.example.srikanthgeneralstores.modalClasses.Users;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;

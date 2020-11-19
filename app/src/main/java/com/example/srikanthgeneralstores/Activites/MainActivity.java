@@ -1,4 +1,4 @@
-package com.example.srikanthgeneralstores;
+package com.example.srikanthgeneralstores.Activites;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -15,6 +15,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.srikanthgeneralstores.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
@@ -31,9 +32,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.MutableData;
 import com.google.firebase.database.Transaction;
-import com.google.firebase.database.ValueEventListener;
 
-import java.util.Objects;
 import java.util.concurrent.TimeUnit;
 
 public class MainActivity extends AppCompatActivity {
@@ -89,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(),"Code sent to the Sender",Toast.LENGTH_SHORT).show();
                 resend.setVisibility(View.VISIBLE);
                 vactive=true;
-        setVisible(loading);
+                setVisible(loading);
             }
         };
     }

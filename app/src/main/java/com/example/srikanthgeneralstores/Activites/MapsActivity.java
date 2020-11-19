@@ -1,4 +1,4 @@
-package com.example.srikanthgeneralstores;
+package com.example.srikanthgeneralstores.Activites;
 
 import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
@@ -18,6 +18,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
+import com.example.srikanthgeneralstores.R;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;

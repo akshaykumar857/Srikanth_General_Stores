@@ -6,4 +6,24 @@
     <string name="set_as_current_location">Set as Current Location</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_order">My Orders</string>
+    <string name="my_cart">My Cart</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="foodgrains_oil_masala"><![CDATA[Foodgrains,Oil & Masala]]></string>
+    <string name="bakery_cakes_diary"><![CDATA[Bakery,Cakes & Diary]]></string>
+    <string name="Vegetables"><![CDATA[Fruits & Vegetables]]></string>
+    <string name="beauty_hygiene"><![CDATA[Beauty & Hygiene]]></string>
+    <string name="beverages">Beverages</string>
+    <string name="snacks_branded_foods"><![CDATA[Snacks & Branded Foods]]></string>
+    <string name="stationary">Others</string>
+    <string name="Kitchen_care">Kitchen Care</string>
+    <string name="CleaningHousehold"><![CDATA[Cleaning & Household]]></string>
+    <string name="others">Others</string>
+    <string name="help">Help</string>
+    <string name="settings">settings</string>
+    <string name="logout">LogOut</string>
+    <string name="sgs">SGS</string>
 </resources>
